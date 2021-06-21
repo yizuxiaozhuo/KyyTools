@@ -1,0 +1,17 @@
+{
+    "name": "kyy/tools",
+    "description": "This is a library related to public tools used by kuaiyouyi company.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hahn",
+            "email": "zbh_yu_jian@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+	"psr-4":{"Kyy\\":"src"}
+    }
+}
